@@ -7,63 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3fc376e-31fa-4171-9eb9-dab7029eb018" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/02_youkumenu.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/proguard-rules.pro" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/androidTest/java/com/xpf/youkumenu/ExampleInstrumentedTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/java/com/xpf/youkumenu/MainActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/java/com/xpf/youkumenu/Tools.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/channel1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/channel2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/channel3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/channel4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/channel5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/channel6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/channel7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/icon_home.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/icon_menu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/icon_myyouku.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/icon_search.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/level1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/level2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-hdpi/level3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/drawable/ic_launcher_background.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/layout/activity_main.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/values/colors.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/values/strings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/main/res/values/styles.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/02_youkumenu/src/test/java/com/xpf/youkumenu/ExampleUnitTest.java" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/android-custom-view.iml" afterPath="$PROJECT_DIR$/android-custom-view.iml" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
