@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_addsubview/01_addsubview.iml" filepath="$PROJECT_DIR$/01_addsubview/01_addsubview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_youkumenu/02_youkumenu.iml" filepath="$PROJECT_DIR$/02_youkumenu/02_youkumenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-custom-view.iml" filepath="$PROJECT_DIR$/android-custom-view.iml" />
     </modules>
   </component>

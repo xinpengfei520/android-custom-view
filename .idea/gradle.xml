@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/01_addsubview" />
+            <option value="$PROJECT_DIR$/02_youkumenu" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
