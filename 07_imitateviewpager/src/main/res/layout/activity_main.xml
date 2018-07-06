@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.xpf.imitateviewpager.MainActivity">
+    android:orientation="vertical"
+    tools:context=".MainActivity">
 
-    <RadioGroup
-        android:id="@+id/rg_main"
+    <Button
+        android:id="@+id/btnMyViewPager"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center_horizontal"
-        android:orientation="horizontal">
-    </RadioGroup>
+        android:text="MyViewPager"
+        android:textAllCaps="false" />
 
-    <com.xpf.imitateviewpager.MyViewPager
-        android:id="@+id/myViewPager"
+    <Button
+        android:id="@+id/btnCustomViewPager"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_below="@id/rg_main" />
-</RelativeLayout>
+        android:layout_height="wrap_content"
+        android:text="CustomViewPager"
+        android:textAllCaps="false" />
+
+</LinearLayout>
