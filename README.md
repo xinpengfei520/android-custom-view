@@ -19,6 +19,18 @@
 
 ![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/03_banner.png)
 
+### 4.Spinner
+
+使用Popupwindow实现的 List 下拉框
+
+![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/04_spinner.png)
+
+### 5.ToggleButton
+
+自定义可以滑动并可以点击的 ToggleButton
+
+![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/toggle_button.png)
+
 ## License
 
 ```

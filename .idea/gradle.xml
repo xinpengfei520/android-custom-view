@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/02_youkumenu" />
             <option value="$PROJECT_DIR$/03_banner" />
             <option value="$PROJECT_DIR$/04_spinner" />
+            <option value="$PROJECT_DIR$/05_togglebutton" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
