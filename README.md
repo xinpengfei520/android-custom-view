@@ -55,6 +55,10 @@ ListView 的侧滑删除
 
 ![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/sliding_menu.png)
 
+### 10.EventTest
+
+EventTest 触摸事件测试 Demo
+
 ## License
 
 ```
