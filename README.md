@@ -13,6 +13,12 @@
 
 ![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/youku_menu.png)
 
+### 3.Banner
+
+广告自动轮播图效果，按住停止轮播，松开自动无限轮播
+
+![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/03_banner.png)
+
 ## License
 
 ```
