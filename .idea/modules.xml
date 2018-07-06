@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/06_attributeview/06_attributeview.iml" filepath="$PROJECT_DIR$/06_attributeview/06_attributeview.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_imitateviewpager/07_imitateviewpager.iml" filepath="$PROJECT_DIR$/07_imitateviewpager/07_imitateviewpager.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_contactquickindex/08_contactquickindex.iml" filepath="$PROJECT_DIR$/08_contactquickindex/08_contactquickindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_slidingmenu/09_slidingmenu.iml" filepath="$PROJECT_DIR$/09_slidingmenu/09_slidingmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-custom-view.iml" filepath="$PROJECT_DIR$/android-custom-view.iml" />
     </modules>
   </component>

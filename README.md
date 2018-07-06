@@ -49,6 +49,12 @@
 
 ![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/contact_quick_index.png)
 
+### 9.SlidingMenu
+
+ListView 的侧滑删除
+
+![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/sliding_menu.png)
+
 ## License
 
 ```
