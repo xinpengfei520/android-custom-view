@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/07_imitateviewpager" />
             <option value="$PROJECT_DIR$/08_contactquickindex" />
             <option value="$PROJECT_DIR$/09_slidingmenu" />
+            <option value="$PROJECT_DIR$/10_eventtest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
