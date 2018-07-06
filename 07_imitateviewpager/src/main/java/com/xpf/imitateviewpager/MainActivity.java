@@ -8,10 +8,11 @@ import android.widget.Button;
 
 import com.xpf.imitateviewpager.activity.CustomViewPagerActivity;
 import com.xpf.imitateviewpager.activity.MyViewPagerActivity;
+import com.xpf.imitateviewpager.activity.ScrollTestActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button btnMyViewPager, btnCustomViewPager;
+    private Button btnMyViewPager, btnCustomViewPager, btnScrollTest;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         btnMyViewPager = findViewById(R.id.btnMyViewPager);
         btnCustomViewPager = findViewById(R.id.btnCustomViewPager);
+        btnScrollTest = findViewById(R.id.btnScrollTest);
         btnMyViewPager.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -29,6 +31,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, CustomViewPagerActivity.class));
+            }
+        });
+        btnScrollTest.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, ScrollTestActivity.class));
             }
         });
     }

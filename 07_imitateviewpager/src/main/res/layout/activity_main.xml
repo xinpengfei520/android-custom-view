@@ -21,4 +21,11 @@
         android:text="CustomViewPager"
         android:textAllCaps="false" />
 
+    <Button
+        android:id="@+id/btnScrollTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ScrollTest"
+        android:textAllCaps="false" />
+
 </LinearLayout>
