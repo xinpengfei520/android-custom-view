@@ -10,67 +10,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3fc376e-31fa-4171-9eb9-dab7029eb018" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/10_eventtest.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/proguard-rules.pro" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/androidTest/java/com/xpf/eventtest/ExampleInstrumentedTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/MainActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/activity/DispatcherEventActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/activity/TouchEventActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/utils/LogUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/utils/TouchEventUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/widget/MyImageView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/widget/MyLinearLayout.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/widget/TouchEventChilds.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/java/com/xpf/eventtest/widget/TouchEventFather.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/drawable-hdpi/default1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/drawable-hdpi/girl1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/drawable-hdpi/girl2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/drawable-hdpi/girl3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/drawable/ic_launcher_background.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/drawable/mm.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/layout/activity_dispather_event.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/layout/activity_main.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/layout/lv_item.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/layout/main.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-hdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-mdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-xhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/values/colors.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/values/strings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/main/res/values/styles.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/10_eventtest/src/test/java/com/xpf/eventtest/ExampleUnitTest.java" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/07_imitateviewpager/07_imitateviewpager.iml" afterPath="$PROJECT_DIR$/07_imitateviewpager/07_imitateviewpager.iml" />
-      <change beforePath="$PROJECT_DIR$/09_slidingmenu/09_slidingmenu.iml" afterPath="$PROJECT_DIR$/09_slidingmenu/09_slidingmenu.iml" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-    </list>
+    <list default="true" id="d3fc376e-31fa-4171-9eb9-dab7029eb018" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10371,7 +10311,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -11050,7 +10990,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -11631,10 +11571,10 @@
         <state relative-caret-position="550">
           <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
           <folding>
-            <element signature="e#749#953#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#1002#1211#0" expanded="true" />
-            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#749#953#0" expanded="false" />
+            <element signature="e#952#953#0" expanded="false" />
+            <element signature="e#1002#1211#0" expanded="false" />
+            <element signature="e#1210#1211#0" expanded="false" />
           </folding>
         </state>
       </provider>
