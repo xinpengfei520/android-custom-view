@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/05_togglebutton" />
             <option value="$PROJECT_DIR$/06_attributeview" />
             <option value="$PROJECT_DIR$/07_imitateviewpager" />
+            <option value="$PROJECT_DIR$/08_contactquickindex" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

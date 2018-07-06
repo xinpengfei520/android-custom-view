@@ -43,6 +43,12 @@
 
 ![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/07_imitate_viewpager.png)
 
+### 8.ContactQuickIndex
+
+自定义联系人快速索引 View
+
+![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/contact_quick_index.png)
+
 ## License
 
 ```

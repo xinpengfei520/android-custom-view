@@ -3,10 +3,8 @@ package com.xpf.spinner;
 import android.content.Context;
 
 /**
- * 作者：尚硅谷-杨光福 on 2016/9/21 15:27
- * 微信：yangguangfu520
- * QQ号：541433511
- * 作用：xxxx
+ * Created by xpf  on 2016/9/21 15:27
+ * 作用：
  */
 public class DensityUtil {
     /**
