@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyAttributeView">
+        <attr name="name" format="string"/>
+        <attr name="age" format="integer"/>
+        <attr name="bg" format="reference"/>
+    </declare-styleable>
+</resources>

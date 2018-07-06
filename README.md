@@ -31,6 +31,12 @@
 
 ![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/toggle_button.png)
 
+### 6.AttributeView
+
+自定义属性(背景、姓名、年龄)的 View
+
+![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/attribute_view.png)
+
 ## License
 
 ```

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/03_banner/03_banner.iml" filepath="$PROJECT_DIR$/03_banner/03_banner.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_spinner/04_spinner.iml" filepath="$PROJECT_DIR$/04_spinner/04_spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_togglebutton/05_togglebutton.iml" filepath="$PROJECT_DIR$/05_togglebutton/05_togglebutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_attributeview/06_attributeview.iml" filepath="$PROJECT_DIR$/06_attributeview/06_attributeview.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-custom-view.iml" filepath="$PROJECT_DIR$/android-custom-view.iml" />
     </modules>
   </component>

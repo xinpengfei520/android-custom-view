@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/03_banner" />
             <option value="$PROJECT_DIR$/04_spinner" />
             <option value="$PROJECT_DIR$/05_togglebutton" />
+            <option value="$PROJECT_DIR$/06_attributeview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
