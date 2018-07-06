@@ -37,6 +37,12 @@
 
 ![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/attribute_view.png)
 
+### 7.ImitateViewPager
+
+仿 ViewPager 实现
+
+![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/07_imitate_viewpager.png)
+
 ## License
 
 ```
