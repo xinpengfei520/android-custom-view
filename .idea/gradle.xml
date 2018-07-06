@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/01_addsubview" />
             <option value="$PROJECT_DIR$/02_youkumenu" />
+            <option value="$PROJECT_DIR$/03_banner" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
