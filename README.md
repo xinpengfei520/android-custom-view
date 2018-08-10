@@ -59,6 +59,12 @@ ListView 的侧滑删除
 
 EventTest 触摸事件测试 Demo
 
+### 11.ArcView
+
+弧形View(凸出的弧形)
+
+![image](https://github.com/xinpengfei520/AddSubView/blob/master/screenshot/arcview.png)
+
 ## License
 
 ```
