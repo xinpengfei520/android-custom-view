@@ -7,6 +7,14 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <com.xpf.android.arcview.TitleBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:text="弧形View页面的标题"
+        app:textColor="#ffffff"
+        app:textSize="16sp"
+        app:titleBgColor="#1e90ff" />
+
     <com.xpf.android.arcview.ArcView
         android:layout_width="match_parent"
         android:layout_height="160dp"
