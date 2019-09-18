@@ -1,3 +1,3 @@
-include ':01_addsubview', ':02_youkumenu', ':03_banner', ':04_spinner', ':05_togglebutton', ':06_attributeview', ':07_imitateviewpager', ':08_contactquickindex', ':09_slidingmenu', ':10_eventtest', ':11_arcview', ':12_loadingview', ':13_wordscloud', ':14_3dcardview'
+include ':01_addsubview', ':02_youkumenu', ':03_banner', ':04_spinner', ':05_togglebutton', ':06_attributeview', ':07_imitateviewpager', ':08_contactquickindex', ':09_slidingmenu', ':10_eventtest', ':11_arcview', ':12_loadingview', ':13_wordscloud', ':14_3dcardview', ':15_customview'
 
 
